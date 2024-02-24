@@ -1,0 +1,122 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    clear: both;
+}
+.main{
+    width: 1300px;
+    height: 600px;
+    background-color: black;
+}
+.portfolio{
+    float: left;
+    width: 900px;
+    background-color: black;
+}
+.color{
+    color: #7fff00;
+}
+.portfolio h6{
+    margin: 45px 0px 0px 150px;
+    color: grey;
+}
+.portfolio h1{
+    margin: 25px 150px;
+    color: white;
+}
+.portfolio p{
+    margin: 25px 50px 0px 150px;
+    color: grey;
+    line-height: 22px;
+}
+.coloum{
+    width: 50%;
+    margin: 0px 50px 0px 150px;
+    color: white;
+}
+.coloum ul{
+    padding: 10px;
+    margin-left: 15px;
+    color: white;
+    line-height: 30px;
+    
+}
+.coloum .left{
+    float: left;
+}
+.coloum .right{
+    float: right;
+}
+.contact{
+    width: 60%;
+    height: 80px;
+    background-color: #2C3333;
+    clear: both;
+    margin-left: 150px;
+    border-radius: 10px;
+    color: grey;
+
+}
+.email{
+    width: 50%;
+    float: left;
+}
+.eimg{
+    float: left;
+    width: 20%;
+    padding: 25px 0px 0px 27px
+
+}
+.efun{
+    width: 70%;
+    float: right;
+}
+.call{
+    width: 50%;
+    float: right;
+}
+.cimg{
+    width: 20%;
+    float: left;
+    padding: 25px 0px 0px 27px
+}
+.cfun{
+    width: 70%;
+    float: right;
+}
+.white{
+    color: white;
+}
+.photo{
+    float: right;
+    width: 30%;
+    margin-top: 80px;
+}
+.photo img{
+    width: 300px;
+}
+.one{
+    clear: both;
+    background-color: #fff;
+    width: 18%;
+    text-align: center;
+    height: 35px;
+    border-radius: 30px;
+    position: relative;
+    bottom: 250px;
+    left: 830px;
+    font-style:unset oblique;
+}
+.two{
+    clear: both;
+    background-color: #fff;
+    width: 15%;
+    text-align: center;
+    height: 35px;
+    border-radius: 30px;
+    position: relative;
+    bottom: 220px;
+    left: 750px;
+    font-style:unset oblique;
+
+}
